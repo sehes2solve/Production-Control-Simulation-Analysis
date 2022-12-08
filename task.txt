@@ -1,0 +1,4 @@
+Task #3 {Submit in the week starting 16th March}
+
+Code the inventory simulation problem -- explained in the lecture today -- to decide how many PCs to order per week. (either 1 or 2).
+Simulation Time: 500 weeks
